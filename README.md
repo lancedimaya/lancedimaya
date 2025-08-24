@@ -1,16 +1,17 @@
-## Hi there 👋
+## Greetings, I'm Lance Terrence Exequiel N. Dimaya
 
-<!--
-**lancedimaya/lancedimaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 👨🏻‍💻 A BSIT student at Laguna State Polytechnic University from Laguna, Philippines.
-I’m passionate about technology, web design, and continuously improving my coding skills.
 
-🎯 Goals
-🚀 To become a skilled Fullstack Developer
-📚 Expand my knowledge in backend and frontend development
-💡 Build projects that solve real-world problems
+### 🎯Goal
+🚀 To get a jop related to IT
+📚 Expand my knowledge in programming 
+💡 Build projects
 
-💻 Skills
-HTML | CSS | Beginner in Python
+
+### 💻 Skills
+HTML | CSS | 
+Web Design
+
+
+### ✉️ Contact
+📧 Email: dimayalanceterrence30@gmail.com
