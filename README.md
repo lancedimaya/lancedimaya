@@ -4,7 +4,9 @@
 
 ### 🎯Goal
 🚀 To get a jop related to IT
+
 📚 Expand my knowledge in programming 
+
 💡 Build projects
 
 
